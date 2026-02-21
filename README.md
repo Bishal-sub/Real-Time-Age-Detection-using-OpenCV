@@ -135,7 +135,7 @@ python age_detection.py
 
 
 
-Your Name  
+
 GitHub: https://github.com/bishal-sub
 
 
