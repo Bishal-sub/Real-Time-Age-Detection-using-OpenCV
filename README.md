@@ -55,7 +55,6 @@ age-detection/
 ├── age_net.caffemodel
 ├── opencv_face_detector.pbtxt
 ├── opencv_face_detector_uint8.pb
-├── requirements.txt
 └── README.md
 ```
 
