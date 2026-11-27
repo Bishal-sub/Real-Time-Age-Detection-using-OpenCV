@@ -1,4 +1,4 @@
-# 🎂 Real-Time Age Detection using OpenCV
+#  Real-Time Age Detection using OpenCV
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-DNN-green)
@@ -101,6 +101,21 @@ python age_detection.py
 
 - Your webcam will open
 - Press **Q** to exit the application
+
+---
+
+## Model Credits & Attribution
+
+This project uses pretrained deep learning models obtained from publicly available GitHub repositories. The models were not developed or trained by me.
+
+Face Detection Model: Pretrained OpenCV Face Detector.
+Age Prediction Model: Pretrained Caffe Age Classification Model.
+
+All model files are used for inference only. The implementation, integration, and application setup are part of this project.
+
+Full credit for the original model architecture, training, and pretrained weights goes to their respective authors and repositories.
+
+Please refer to the original repositories and their licenses for model usage and distribution permissions.
 
 ---
 
